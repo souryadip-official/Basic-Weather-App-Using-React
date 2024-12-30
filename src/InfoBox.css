@@ -1,0 +1,28 @@
+.infoBox {
+    margin: 10px auto;
+    text-align: center;
+    height: 480px;
+    width: 450px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: -50px;
+}
+
+.dispWeatherCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-info {
+    margin-top: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Card-Disp {
+    width: 360px;
+}
+
+.descriptions {
+    text-align: center;
+}
