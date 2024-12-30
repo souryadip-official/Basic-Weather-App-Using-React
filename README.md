@@ -1,2 +1,13 @@
-# Basic-Weather-App-Using-React
-I have tried designing a weather app to strengthen my learning of React.js
+# Weather App 🌦️
+
+This project is a **Weather App** I designed to strengthen my skills in **React.js**. It fetches **real-time weather data** from an API and provides a clean, user-friendly interface to display the information.
+
+## Features
+- **Real-Time Weather Data**: Search for any location and get up-to-date weather details.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Modern React Practices**: Built with reusable components and state management.
+
+## Motivation
+This project was built to enhance my understanding of:
+- **React.js Concepts**: Component-based architecture, state, and props.
+- **API Integration**: Fetching external data with `fetch`
