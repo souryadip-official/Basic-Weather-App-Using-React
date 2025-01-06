@@ -6,8 +6,3 @@ This project is a **Weather App** I designed to strengthen my skills in **React.
 - **Real-Time Weather Data**: Search for any location and get up-to-date weather details.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Modern React Practices**: Built with reusable components and state management.
-
-## Motivation
-This project was built to enhance my understanding of:
-- **React.js Concepts**: Component-based architecture, state, and props.
-- **API Integration**: Fetching external data with `fetch`
